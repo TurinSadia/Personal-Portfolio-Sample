@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray">
       {/* Footer Container */}
-      <div className="container py-10 px-5">
+      <div className="container pt-10 px-5">
         {/* Logo Section */}
         <div className="text-center mb-5">
           <Link href="#">
