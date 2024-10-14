@@ -15,8 +15,62 @@
 body {
     font-family: 'Poppins', sans-serif;
 
+ 
+/*  Others */
+    
+        -webkit-user-select: none;
+        
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    
+        pointer-events: none;
+ 
 
+}
 
+.container {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    overflow: hidden;
+}
+
+@media (min-width: 640px) {
+    .container {
+        max-width: 640px;
+        /* For small screens */
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 768px;
+        /* For medium screens */
+    }
+}
+
+@media (min-width: 1024px) {
+    .container {
+        max-width: 1024px;
+        /* For large screens */
+    }
+}
+
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1280px;
+        /* For extra large screens */
+    }
+}
+
+@media (min-width: 1536px) {
+    .container {
+        max-width: 1536px;
+        /* For 2XL screens */
+    }
 }
 
 strong{

@@ -42,11 +42,11 @@ const Intro = () => {
           {/* Profile Image */}
           <div className="mb-4">
             <Image
-              className="m-auto w-64 h-64 sm:w-72 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96"
+              className="m-auto w-56 h-64 sm:w-60 sm:h-64 md:w-72 md:h-80 lg:w-80 lg:h-96"
               src="/Group 2.png"
               alt="Group 2"
-              width={400}
-              height={400}
+              width={350}
+              height={350}
             />
           </div>
 

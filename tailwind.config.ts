@@ -8,10 +8,6 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      container: {
-        center: true,
-        padding: '15px' ,
-      },
       colors :{
         orange: '#FF8233',
         gray: '#F8F8F8',
