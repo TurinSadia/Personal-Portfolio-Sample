@@ -28,7 +28,7 @@ export default function Projects() {
   };
 
   return (
-    <div className="container mx-auto py-6 px-4 sm:px-6 lg:px-8 ">
+    <div className="container mx-auto pt-2 px-4 sm:px-6 lg:px-8 ">
       <div className="paragraph-text py-5 text-center">
         <h2 className="font-bold text-3xl md:text-4xl py-2">My Projects</h2>
         <p className="py-6 text-justify md:text-center max-w-md md:max-w-lg mx-auto text-sm md:text-base">
