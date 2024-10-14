@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
 
         {/* Links Section */}
-        <div className="flex flex-wrap justify-center gap-6 md:gap-10 mx-auto font-sm py-10">
+        <div className="flex flex-wrap justify-center gap-6 md:gap-10 mx-auto font-sm pt-7 pb-10">
           <Link className="hover:text-orange" href="#">
             Home
           </Link>
@@ -54,7 +54,7 @@ const Footer = () => {
       </div>
 
       {/* Footer Bottom Text */}
-      <div className="bg-deepGray p-2 text-center text-xs md:text-sm">
+      <div className="bg-deepGray p-4 text-center text-xs md:text-sm">
         <p className="text-white">
           © 2023 <span className="text-orange">Mumair</span> All Rights
           Reserved, Inc.
