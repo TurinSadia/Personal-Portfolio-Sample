@@ -48,7 +48,7 @@ export default function Testimonial() {
   };
 
   return (
-    <div className="container mx-auto px-4 py-10 sm:px-6 lg:px-8">
+    <div className="container mx-auto px-4 pt-5 pb-10 sm:px-6 lg:px-8">
       <div className="paragraph-text py-5 text-center">
         <h2 className="font-bold text-3xl sm:text-4xl py-2">Testimonials</h2>
         <p className="py-6 text-justify md:text-center max-w-md md:max-w-lg mx-auto text-sm md:text-base">
