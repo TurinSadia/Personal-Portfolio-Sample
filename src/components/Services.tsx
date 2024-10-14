@@ -3,7 +3,7 @@ import Card from "../components/Card";
 
 const Services = () => {
   return (
-    <div className="container mx-auto py-10 px-4 sm:px-6 lg:px-8">
+    <div className="container mx-auto pt-5 pb-10 px-4 sm:px-6 lg:px-8">
       {/* Title and Description Section */}
       <div className="paragraph-text py-5 text-center">
         <h2 className="font-bold text-3xl md:text-4xl py-2">Services</h2>
